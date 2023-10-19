@@ -80,13 +80,13 @@ nav .wrapper{
 .mega-box .content{
   background-color: white;
   box-shadow: 10px 10px 20px 0px #888888;
-  padding: 25px 20px;
+  padding: 25px 15px;
   display: flex;
   width: 100%;
   gap: 2rem;
  }
 .mega-box .content .row{
-  line-height: 35px;
+  line-height: 32px;
   color: black;
 }
 .content .row img{
@@ -96,7 +96,7 @@ nav .wrapper{
 }
 .content .row h4{
   color: black;
-  font-size: 19px;
+  font-size: 16px;
   font-weight: 500;
 }
 .content .row .mega-links{
@@ -104,13 +104,13 @@ nav .wrapper{
   border-left: 1px solid rgba(255,255,255,0.09);
 }
 .row .mega-links li{
-  padding: 0 20px;
+  padding-left: 18px;
   margin: -15px 0;
 }
 .row .mega-links li a{
-  padding: 0 20px;
+  padding-left: 18px;
   color: black;
-  font-size: smaller;
+  font-size: 60%;
 }
 .row .mega-links li a:hover{
   color: #3A3B3C;
