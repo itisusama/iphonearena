@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Iphone Arena - Login</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="nav.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="Navigation.js"></script>
+    <script src="Footer.js"></script>
+    <script src="Header.js"></script>
+  </head>
+
+<body>
+    <!-- Main Container -->
+  <div class="container-fluid px-0">
+    <!-- Header -->
+    <header-component></header-component>
+    <!-- Header -->
+
+      <!-- Nav bar -->
+      <navigation-component></navigation-component>
+      <!-- Navbar -->
+
+    <!-- forms -->
+    <div class="container rounded mt-3 py-0 detail-buttons">
+        <button style="border: none;" class="px-4 py-2" type="button" onclick="showLogin()">Login</button>
+        <button style="border: none;" class="px-4 py-2" type="button" onclick="showSignup()">Create Account</button>
+      </div>
+      <div class="container bg-light shadow p-3">
+        <!-- 1 -->
+        <section class="overview" id="login-section">
+            
+            <div class="devices-container">
+                <h4 style="text-align:center; font-size: 17px;" class="text-muted shadow p-3 bg-body rounded zoom-effect">Login to your Account</h4>
+                <hr class="bg-danger" style="height: 2px; width: 15rem;">
+              </div>
+
+            <div class="container d-flex justify-content-center">
+                <div class="col-md-6 mt-3">
+                    <button type="button" class="btn btn-danger btn-block">Login with Google</button>
+                    <form class="mt-3">
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" class="form-control" id="email" placeholder="Enter your email">
+                        </div>
+                        <div class="form-group">
+                            <label for="password">Password</label>
+                            <input type="password" class="form-control" id="password" placeholder="Enter your password">
+                        </div>
+                        <button type="submit" class="btn btn-success btn-block mt-3">Login</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+        <!-- 2 -->
+        <section class="delivery-and-return" id="signup-section" class="hidden">
+            
+            <div class="devices-container">
+                <h4 style="text-align:center; font-size: 17px;" class="text-muted shadow p-3 bg-body rounded zoom-effect">Create and Account</h4>
+                <hr class="bg-danger" style="height: 2px; width: 15rem;">
+              </div>
+            
+            <div class="container d-flex justify-content-center">
+                <div class="col-md-6 mt-3">
+                    <form>
+                        <div class="form-group">
+                            <label for="firstName">First Name</label>
+                            <input type="text" class="form-control" id="firstName" placeholder="Enter your first name">
+                        </div>
+                        <div class="form-group">
+                            <label for="lastName">Last Name</label>
+                            <input type="text" class="form-control" id="lastName" placeholder="Enter your last name">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" class="form-control" id="email" placeholder="Enter your email">
+                        </div>
+                        <div class="form-group">
+                            <label for="password">Password</label>
+                            <input type="password" class="form-control" id="password" placeholder="Enter your password">
+                        </div>
+                        <div class="form-group">
+                            <label for="reEnterPassword">Re-enter Password</label>
+                            <input type="password" class="form-control" id="reEnterPassword" placeholder="Re-enter your password">
+                        </div>
+                        <button type="submit" class="btn btn-success mt-3">Sign Up</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+      </div>
+    <!-- forms -->
+    
+    <!-- Slider -->
+    <div class="recent-products container-fluid bg-light shadow rounded mt-3 py-3">
+      
+        <div class="devices-container">
+          <h4 style="text-align:center; font-size: 17px;" class="text-muted shadow p-3 bg-body rounded zoom-effect">Recently Added Products</h4>
+          <hr class="bg-danger" style="height: 2px; width: 15rem;">
+  
+          <div class="products-slider-container">
+            <div class="products-slider">
+                <!-- Products -->
+                <div class="products-devices-gallery accessories">
+                  <!-- Row 1 -->
+                  <!-- 1 -->
+                  <div style="text-align: center;">
+                    <a class="item zoom-effect" href="item1.html">
+                      <img src="assets/accessories/cabel.jpg" alt="device"><br>
+                    </a>
+                    <a href="#">Cabel</a>
+                  </div>
+                  <!-- 2 -->
+                  <div style="text-align: center;">
+                    <a class="item zoom-effect" href="item1.html">
+                      <img src="assets/accessories/headset.jpg" alt="device"><br>
+                    </a>
+                    <a href="#">Headset</a>
+                  </div>
+                  <!-- 3 -->
+                  <div style="text-align: center;">
+                    <a class="item zoom-effect" href="item1.html">
+                      <img src="assets/accessories/protector.jpg" alt="device"><br>
+                    </a>
+                    <a href="#">Protector</a>
+                  </div>
+  
+                  <!-- Row 2 -->
+                  <!-- 1 -->
+                  <div style="text-align: center;">
+                    <a class="item zoom-effect" href="item1.html">
+                      <img src="assets/accessories/cabel.jpg" alt="device"><br>
+                    </a>
+                    <a href="#">Cabel</a>
+                  </div>
+                  <!-- 2 -->
+                  <div style="text-align: center;">
+                    <a class="item zoom-effect" href="item1.html">
+                      <img src="assets/accessories/headset.jpg" alt="device"><br>
+                    </a>
+                    <a href="#">Headset</a>
+                  </div>
+                  <!-- 3 -->
+                  <div style="text-align: center;">
+                    <a class="item zoom-effect" href="item1.html">
+                      <img src="assets/accessories/protector.jpg" alt="device"><br>
+                    </a>
+                    <a href="#">Protector</a>
+                  </div>
+  
+                  <!-- Row 3 -->
+                  <!-- 1 -->
+                  <div style="text-align: center;">
+                    <a class="item zoom-effect" href="item1.html">
+                      <img src="assets/accessories/cabel.jpg" alt="device"><br>
+                    </a>
+                    <a href="#">Cabel</a>
+                  </div>
+                  <!-- 2 -->
+                  <div style="text-align: center;">
+                    <a class="item zoom-effect" href="item1.html">
+                      <img src="assets/accessories/headset.jpg" alt="device"><br>
+                    </a>
+                    <a href="#">Headset</a>
+                  </div>
+                  <!-- 3 -->
+                  <div style="text-align: center;">
+                    <a class="item zoom-effect" href="item1.html">
+                      <img src="assets/accessories/protector.jpg" alt="device"><br>
+                    </a>
+                    <a href="#">Protector</a>
+                  </div>
+              </div>
+                <!-- Products -->
+            </div>
+        </div>
+  
+        </div>
+  
+      </div>
+    <!-- Slider -->
+
+    <!-- Footer -->
+    <footer-component></footer-component>
+  <!-- Footer -->
+  </div>
+  <!-- Main Container -->
+  <!-- Modal Feedback -->
+  <div id="myModal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <h4>Phone Gadgets Boutique Feedback</h4><br>
+      <p>Thank you for helping us to improve our website.</p>
+      <br>
+      <h3>Please fill in this survey after you have finished browsing the website.</h3>
+      <hr><br>
+      <form action="#" method="post">
+        <label for="satisfaction"><b>How satisfied were you?</b></label>
+        <select name="satisfaction" id="satisfaction">
+          <option value="1">1 - Less Satisfied</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="3">4</option>
+          <option value="5">5</option>
+          <option value="6">6</option>
+          <option value="7">7</option>
+          <option value="8">8</option>
+          <option value="9">9</option>
+          <option value="10">10 - Fully Satisfied</option>
+        </select> <br><br>
+
+        <label for="task"><b>Are You able to complete your task?</b></label><br>
+        <span>YES </span><input type="radio" name="YES" id="yes"><br>
+        <span>NO </span><input type="radio" name="NO" id="no">
+        <br><br>
+        
+        <label for="problem"><b>What was the problem?</b></label><br>
+        <textarea name="problem" id="problem" cols="50" rows="5"></textarea>
+        <br><br>
+
+        <label for="email"><b>Enter your Email</b></label><br>
+        <input type="email" name="email" id="email"> <br>
+        <input class="btn btn-success mt-3" type="submit" value="Add Feedback">
+      </form>
+    </div>
+  
+  </div>
+  <!-- Modal -->
+
+  <script>
+    document.getElementById('signup-section').style.display = 'none';
+     function showLogin() {
+            document.getElementById('login-section').style.display = 'block';
+            document.getElementById('signup-section').style.display = 'none';
+        }
+
+        function showSignup() {
+            document.getElementById('login-section').style.display = 'none';
+            document.getElementById('signup-section').style.display = 'block';
+        }
+  </script>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="script/script.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
+    integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
+    integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>
