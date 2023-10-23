@@ -15,7 +15,7 @@ headerTemplate.innerHTML = `
     </div>
     <!-- Top Contacts -->
         <div class="header container">
-            <img src="assets/website-logo.png" alt="logo">
+            <img src="assets/ialogo.png" alt="logo">
             
             <!-- Search -->
             <form class="example" action="#">
