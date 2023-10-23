@@ -36,14 +36,14 @@ navigationTemplate.innerHTML = `
                         <h4>Samsung Cases</h4>
                         
                         <ul class="mega-links">
-                          <li><a href="item2.html">Galaxy S23 FE Cases</a></li>
-                          <li><a href="item2.html">Galaxy S23 Ultra Cases</a></li>
-                          <li><a href="item2.html">Galaxy S23 Plus Cases</a></li>
-                          <li><a href="item2.html">Galaxy S23 Cases</a></li>
-                          <li><a href="item2.html">Galaxy Z Flip 5 Cases</a></li>
-                          <li><a href="item2.html">Galaxy Z Flip 5 Cases</a></li>
-                          <li><a href="item2.html">Galaxy Tab S9 Ultra Cases</a></li>
-                          <li><a href="item2.html">Galaxy Tab S9 Cases</a></li>
+                          <li><a href="item2.html">Galaxy S23 FE</a></li>
+                          <li><a href="item2.html">Galaxy S23 Ultra</a></li>
+                          <li><a href="item2.html">Galaxy S23 Plus</a></li>
+                          <li><a href="item2.html">Galaxy S23</a></li>
+                          <li><a href="item2.html">Galaxy Z Flip5</a></li>
+                          <li><a href="item2.html">Galaxy Z Flip5</a></li>
+                          <li><a href="item2.html">Galaxy Tab S9 Ultra</a></li>
+                          <li><a href="item2.html">Galaxy Tab S9</a></li>
                           <li><a href="item2.html"><b>Shop all Samsung Cases</b></a></li>
                           <br>
                         </ul>
@@ -51,15 +51,15 @@ navigationTemplate.innerHTML = `
                         <h4>Google Pixel Cases</h4>
                         
                         <ul class="mega-links">
-                          <li><a href="item2.html">Pixel 8 Cases</a></li>
-                          <li><a href="item2.html">Pixel 8 Pro Cases</a></li>
-                          <li><a href="item2.html">Pixel Fold Cases</a></li>
-                          <li><a href="item2.html">Galaxy S23 Cases</a></li>
-                          <li><a href="item2.html">Pixel 7a Cases</a></li>
-                          <li><a href="item2.html">Pixel 7 Pro Cases</a></li>
-                          <li><a href="item2.html">Pixel 7 Cases</a></li>
-                          <li><a href="item2.html">Pixel 6a Cases</a></li>
-                          <li><a href="item2.html">Pixel 6 Pro Cases</a></li>
+                          <li><a href="item2.html">Pixel 8</a></li>
+                          <li><a href="item2.html">Pixel 8Pro</a></li>
+                          <li><a href="item2.html">Pixel Fold</a></li>
+                          <li><a href="item2.html">Galaxy S23</a></li>
+                          <li><a href="item2.html">Pixel 7a</a></li>
+                          <li><a href="item2.html">Pixel 7Pro Cases</a></li>
+                          <li><a href="item2.html">Pixel 7</a></li>
+                          <li><a href="item2.html">Pixel 6a </a></li>
+                          <li><a href="item2.html">Pixel 6 Pro</a></li>
                           <li><a href="item2.html"><b>Shop all Google Pixel Cases</b></a></li>
                         </ul>
                       </div>
@@ -67,30 +67,30 @@ navigationTemplate.innerHTML = `
                         <h4>Samsung A Range Cases</h4>
                         
                         <ul class="mega-links">
-                          <li><a href="item2.html">Galaxy A14 Cases</a></li>
-                          <li><a href="item2.html">Galaxy A54 5G Cases</a></li>
-                          <li><a href="item2.html">Galaxy A34 5G Cases</a></li>
-                          <li><a href="item2.html">Galaxy A33 5G Cases</a></li>
-                          <li><a href="item2.html">Galaxy A53 5G Cases</a></li>
-                          <li><a href="item2.html">Galaxy A04s Cases</a></li>
-                          <li><a href="item2.html">Galaxy A13 5G Cases</a></li>
-                          <li><a href="item2.html">Galaxy A52 Cases</a></li>
-                          <li><a href="item2.html"><b>all Galaxy A-Series Cases</b></a></li>
+                          <li><a href="item2.html">Galaxy A14</a></li>
+                          <li><a href="item2.html">Galaxy A54 5G</a></li>
+                          <li><a href="item2.html">Galaxy A34 5G</a></li>
+                          <li><a href="item2.html">Galaxy A33 5G</a></li>
+                          <li><a href="item2.html">Galaxy A53 5G</a></li>
+                          <li><a href="item2.html">Galaxy A04s</a></li>
+                          <li><a href="item2.html">Galaxy A13 5G</a></li>
+                          <li><a href="item2.html">Galaxy A52</a></li>
+                          <li><a href="item2.html"><b>all Galaxy A-Series</b></a></li>
                           <br>
                         </ul>
                         <!-- another -->
                         <h4>Sony Xperia Cases</h4>
                         
                         <ul class="mega-links">
-                          <li><a href="item2.html">Xperia 10 V Cases</a></li>
-                          <li><a href="item2.html">Xperia 1 V Cases</a></li>
-                          <li><a href="item2.html">Xperia 5 V Cases</a></li>
-                          <li><a href="item2.html">Xperia 10 IV Cases</a></li>
-                          <li><a href="item2.html">Xperia 1 IV Cases</a></li>
-                          <li><a href="item2.html">Xperia 5 IV Cases</a></li>
-                          <li><a href="item2.html">Xperia 10 III Cases</a></li>
-                          <li><a href="item2.html">Xperia 5 III Cases</a></li>
-                          <li><a href="item2.html"><b>Shop all Sony Cases</b></a></li>
+                          <li><a href="item2.html">Xperia 10 V</a></li>
+                          <li><a href="item2.html">Xperia 1 V</a></li>
+                          <li><a href="item2.html">Xperia 5 V</a></li>
+                          <li><a href="item2.html">Xperia 10 IV</a></li>
+                          <li><a href="item2.html">Xperia 1 IV</a></li>
+                          <li><a href="item2.html">Xperia 5 IV</a></li>
+                          <li><a href="item2.html">Xperia 10 III</a></li>
+                          <li><a href="item2.html">Xperia 5 III</a></li>
+                          <li><a href="item2.html"><b>Shop all Sony</b></a></li>
                         </ul>
                       </div>
           
@@ -98,29 +98,29 @@ navigationTemplate.innerHTML = `
                         <h4>Iphone Cases</h4>
                         
                         <ul class="mega-links">
-                          <li><a href="item2.html">iPhone 15 Cases</a></li>
-                          <li><a href="item2.html">iPhone 15 Plus Cases</a></li>
-                          <li><a href="item2.html">iPhone 15 Pro Cases</a></li>
-                          <li><a href="item2.html">iPhone 15 Pro Max Cases</a></li>
-                          <li><a href="item2.html">iPhone 14 Cases</a></li>
-                          <li><a href="item2.html">iPhone 14 Pro Cases</a></li>
-                          <li><a href="item2.html">iPhone 14 Pro Max Cases</a></li>
-                          <li><a href="item2.html">iPhone SE 2022 Cases</a></li>
-                          <li><a href="item2.html"><b>Shop all iPhone Cases</b></a></li>
+                          <li><a href="item2.html">iPhone 15</a></li>
+                          <li><a href="item2.html">iPhone 15 Plus</a></li>
+                          <li><a href="item2.html">iPhone 15 Pro</a></li>
+                          <li><a href="item2.html">iPhone 15 Pro Max</a></li>
+                          <li><a href="item2.html">iPhone 14</a></li>
+                          <li><a href="item2.html">iPhone 14 Pro</a></li>
+                          <li><a href="item2.html">iPhone 14 ProMax</a></li>
+                          <li><a href="item2.html">iPhone SE 2022</a></li>
+                          <li><a href="item2.html"><b>Shop all iPhone</b></a></li>
                           <br>
                         </ul>
                         <!-- another -->
                         <h4>MacBook Cases</h4>
                         
                         <ul class="mega-links">
-                          <li><a href="item2.html">MacBook Air 15 inch 2023 Cases</a></li>
-                          <li><a href="item2.html">MacBook Pro 14 inch 2023 Cases</a></li>
-                          <li><a href="item2.html">MacBook Pro 16 Inch 2023 Cases</a></li>
-                          <li><a href="item2.html">MacBook Air 13 inch 2022 Cases</a></li>
-                          <li><a href="item2.html">MacBook Pro 13 inch 2022 Cases</a></li>
-                          <li><a href="item2.html">MacBook Pro 16 inch 2021 Cases</a></li>
-                          <li><a href="item2.html">MacBook Pro 14 inch 2021 Cases</a></li>
-                          <li><a href="item2.html">MacBook Air 13 inch 2020 Cases</a></li>
+                          <li><a href="item2.html">MacBook Air 15 inch 2023</a></li>
+                          <li><a href="item2.html">MacBook Pro 14 inch 2023</a></li>
+                          <li><a href="item2.html">MacBook Pro 16 Inch 2023</a></li>
+                          <li><a href="item2.html">MacBook Air 13 inch 2022</a></li>
+                          <li><a href="item2.html">MacBook Pro 13 inch 2022</a></li>
+                          <li><a href="item2.html">MacBook Pro 16 inch 2021</a></li>
+                          <li><a href="item2.html">MacBook Pro 14 inch 2021</a></li>
+                          <li><a href="item2.html">MacBook Air 13 inch 2020</a></li>
                           <li><a href="item2.html"><b>Shop all MacBook Cases</b></a></li>
                         </ul>
                       </div>
@@ -129,14 +129,14 @@ navigationTemplate.innerHTML = `
                         <h4>iPad Cases</h4>
                         
                         <ul class="mega-links">
-                          <li><a href="item2.html">iPad 2022 - 10th Gen Cases</a></li>
-                          <li><a href="item2.html">iPad Pro 11 2022 - 4th Gen Cases</a></li>
-                          <li><a href="item2.html">iPad Pro 12.9 2022 - 6th Gen Cases</a></li>
-                          <li><a href="item2.html">iPad Air 5 2022 - 5th Gen Cases</a></li>
-                          <li><a href="item2.html">iPad Pro 12.9 2021 - 5th Gen Cases</a></li>
-                          <li><a href="item2.html">iPad Pro 11.0 2021 - 3rd Gen Cases</a></li>
-                          <li><a href="item2.html">iPad Mini 2021 - 6th Gen Cases</a></li>
-                          <li><a href="item2.html">iPad 10.2 2020 - 8th Gen Cases</a></li>
+                          <li><a href="item2.html">iPad 2022 - 10thGen</a></li>
+                          <li><a href="item2.html">iPad Pro 11 2022-4th</a></li>
+                          <li><a href="item2.html">iPad Pro 12.9 2022-6th</a></li>
+                          <li><a href="item2.html">iPad Air 5 2022-5th</a></li>
+                          <li><a href="item2.html">iPad Pro 12.9 2021-5th</a></li>
+                          <li><a href="item2.html">iPad Pro 11.0 2021-3rd</a></li>
+                          <li><a href="item2.html">iPad Mini 2021-6th</a></li>
+                          <li><a href="item2.html">iPad 10.2 2020-8th</a></li>
                           <li><a href="item2.html"><b>Shop all iPad Cases</b></a></li>
                           <br>
                         </ul>
@@ -145,14 +145,14 @@ navigationTemplate.innerHTML = `
                         
                         <ul class="mega-links">
                           <li><a href="item2.html">Kindle Paperwhite 5 Cases</a></li>
-                          <li><a href="item2.html">OnePlus 11 Cases</a></li>
-                          <li><a href="item2.html">Nothing Phone 2 Cases</a></li>
-                          <li><a href="item2.html">OnePlus Nord CE 2 5G Cases</a></li>
-                          <li><a href="item2.html">OnePlus Nord CE 2 Lite Cases</a></li>
-                          <li><a href="item2.html">iPhone 8 Cases</a></li>
-                          <li><a href="item2.html">Samsung Galaxy S22 Cases</a></li>
-                          <li><a href="item2.html">Samsung Galaxy S22 Plus Cases</a></li>
-                          <li><a href="item2.html">Galaxy S21 Ultra Cases</a></li>
+                          <li><a href="item2.html">OnePlus 11</a></li>
+                          <li><a href="item2.html">Nothing Phone 2</a></li>
+                          <li><a href="item2.html">OnePlus Nord CE 2 5G</a></li>
+                          <li><a href="item2.html">OnePlus Nord CE 2 Lite</a></li>
+                          <li><a href="item2.html">iPhone 8</a></li>
+                          <li><a href="item2.html">Samsung Galaxy S22</a></li>
+                          <li><a href="item2.html">Samsung Galaxy S22 Plus</a></li>
+                          <li><a href="item2.html">Galaxy S21 Ultra</a></li>
                         </ul>
                       </div>
                       

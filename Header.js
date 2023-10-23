@@ -15,8 +15,8 @@ headerTemplate.innerHTML = `
     </div>
     <!-- Top Contacts -->
         <div class="header container">
-            <!-- <img src="assets/website-logo.png" alt="logo"> -->
-            <div class="logo"><h4>Iphone Arena</h4></div>
+            <img src="assets/website-logo.png" alt="logo">
+            
             <!-- Search -->
             <form class="example" action="#">
                 <input type="text" placeholder="By device, brand or item" name="search" autocomplete="off">
