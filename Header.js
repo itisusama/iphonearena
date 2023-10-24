@@ -15,8 +15,7 @@ headerTemplate.innerHTML = `
     </div>
     <!-- Top Contacts -->
         <div class="header container">
-            <!-- <img src="assets/ialogo.png" alt="logo"> -->
-            <h4>iPhone Arena</h4>
+            <img class="ialogo" src="assets/ialogo.png" alt="logo">
             
             <!-- Search -->
             <form class="example" action="#">

@@ -90,10 +90,11 @@ form.example input[type=text] {
     gap: 2%;
     margin-top: 1rem;
     justify-content: center;
+    align-items: center;
   }
 
   .header img{
-    width:10%
+    width:180px
   }
 
   /* Nav */
