@@ -821,3 +821,28 @@ padding: 0;
       height: 140px;
     }
 }
+
+/* Add to cart */
+
+
+
+.add-cart-product{
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.p-image img{
+  width: 50%;
+}
+
+.p-details{
+  font-size: small;
+}
+.p-cancel{
+  width: 30px;
+  height: 30px;
+  margin-left: 30px;
+  padding: 10px;
+  cursor: pointer;
+}
