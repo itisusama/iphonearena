@@ -846,3 +846,30 @@ padding: 0;
   padding: 10px;
   cursor: pointer;
 }
+
+/* Product-cards */
+.product-cards-container {
+  display: flex; 
+  gap: 1rem; 
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.product-card a img,.product-card-details{
+  width: 280px;
+}
+
+@media (max-width:700px){
+  .product-card a img,.product-card-details{
+    width: 250px;
+  }
+}
+
+@media (max-width:545px){
+  .product-card a img,.product-card-details{
+    width: 110px;
+  }
+
+  .product-card-details{
+    font-size: 10px;
+  }
+}

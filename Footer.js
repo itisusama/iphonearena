@@ -69,31 +69,27 @@ footerTemplate.innerHTML = `
         <div class="footer-block">
           <h2 style="margin: 1rem 0;">Customer Service</h2>
           <ul style="list-style: none;">
-              <li><a href="#">Contact Us</a></li>
-              <li><a href="#">Shipping Information</a></li>
-              <li><a href="#">Return Policy</a></li>
-              <li><a href="#">FAQs</a></li>
+              <li><a href="contact.html">Contact Us</a></li>
+              <li><a href="termsandconditions.html">Return Policy</a></li>
+              <li><a href="contact.html">FAQs</a></li>
           </ul>
           <h2 style="margin: 1rem 0;">Site Information</h2>
           <ul style="list-style: none;">
               <li><a href="#">About Us</a></li>
-              <li><a href="#">Privacy Policy</a></li>
-              <li><a href="#">Terms and Conditions</a></li>
-              <li><a href="#">Blog</a></li>
+              <li><a href="termsandconoditions.html">Terms and Conditions</a></li>
+              <li><a href="blogs.html">Blog</a></li>
               <li><a href="#">Careers</a></li>
-              <li><a href="#">Site Map</a></li>
           </ul>
       </div>        
         <!-- 3 -->
         <div class="footer-block">
           <h2 style="margin: 1rem 0;">Popular Accessories</h2>
           <ul style="list-style: none;">
-              <li><a href="#">Phone Cases and Covers</a></li>
-              <li><a href="#">Wireless Earbuds</a></li>
-              <li><a href="#">External Hard Drives</a></li>
-              <li><a href="#">Bluetooth Speakers</a></li>
-              <li><a href="#">Charging Cables</a></li>
-              <li><a href="#">Screen Protectors</a></li>
+              <li><a href="item2.html">Phone Cases</a></li>
+              <li><a href="item4.html">Wireless Earbuds</a></li>
+              <li><a href="item4.html">Bluetooth Speakers</a></li>
+              <li><a href="item3.html">Charging Cables</a></li>
+              <li><a href="item1.html">Screen Protectors</a></li>
           </ul>
       </div>
       
@@ -101,20 +97,20 @@ footerTemplate.innerHTML = `
         <div class="footer-block">
           <h2 style="margin: 1rem 0;">Popular Brands</h2>
           <ul style="list-style: none;">
-              <li><a href="#">Apple</a></li>
-              <li><a href="#">Samsung</a></li>
-              <li><a href="#">Sony</a></li>
-              <li><a href="#">Dell</a></li>
-              <li><a href="#">HP</a></li>
-              <li><a href="#">Canon</a></li>
-              <li><a href="#">Logitech</a></li>
-              <li><a href="#">Bose</a></li>
-              <li><a href="#">Nikon</a></li>
-              <li><a href="#">LG</a></li>
-              <li><a href="#">Microsoft</a></li>
-              <li><a href="#">Asus</a></li>
-              <li><a href="#">Lenovo</a></li>
-              <li><a style="text-decoration: none; color: black;" href="#">View All Brands</a></li>
+              <li><a href="product-categories.html">Apple</a></li>
+              <li><a href="product-categories.html">Samsung</a></li>
+              <li><a href="product-categories.html">Sony</a></li>
+              <li><a href="product-categories.html">Dell</a></li>
+              <li><a href="product-categories.html">HP</a></li>
+              <li><a href="product-categories.html">Canon</a></li>
+              <li><a href="product-categories.html">Logitech</a></li>
+              <li><a href="product-categories.html">Bose</a></li>
+              <li><a href="product-categories.html">Nikon</a></li>
+              <li><a href="product-categories.html">LG</a></li>
+              <li><a href="product-categories.html">Microsoft</a></li>
+              <li><a href="product-categories.html">Asus</a></li>
+              <li><a href="product-categories.html">Lenovo</a></li>
+              <li><a style="text-decoration: none; color: black;" href="product-categories.html">View All Brands</a></li>
           </ul>
       </div>
       
