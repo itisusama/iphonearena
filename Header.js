@@ -10,7 +10,7 @@ headerTemplate.innerHTML = `
     <!-- Header -->
         <!-- Top Contacts -->
     <div class="top-contacts">
-      <p class="animate__animated animate__backInLeft"><i class="fa fa-envelope" aria-hidden="true"></i> example@gmail.com</p>|
+      <p class="animate__animated animate__backInLeft"><i class="fa fa-envelope" aria-hidden="true"></i> iphonearena07@gmail.com</p>|
       <p class="animate__animated animate__backInLeft animate__delay-1s"><i class="fa fa-phone" aria-hidden="true"></i> +123456789</p>
     </div>
     <!-- Top Contacts -->

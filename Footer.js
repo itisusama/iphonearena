@@ -54,10 +54,9 @@ footerTemplate.innerHTML = `
           <br>
           <div class="follow-social">
             <h2>Follow Us</h2>
-            <a href="#"><i style="font-size: 30px; color: blue;" class="fa fa-facebook-official" aria-hidden="true"></i></a>
-            <a href="#"><i style="font-size: 30px; color: red;" class="fa fa-youtube" aria-hidden="true"></i></a>
+            <a href="https://www.facebook.com/profile.php?id=61552777326715"><i style="font-size: 30px; color: blue;" class="fa fa-facebook-official" aria-hidden="true"></i></a>
             <a href="#"><i style="font-size: 30px; color: skyblue;" class="fa fa-twitter-square" aria-hidden="true"></i></a>
-            <a href="#"><i style="font-size: 30px; color: grey;" class="fa fa-instagram" aria-hidden="true"></i></a>
+            <a href="https://www.instagram.com/iphonearena09/"><i style="font-size: 30px; color: grey;" class="fa fa-instagram" aria-hidden="true"></i></a>
           </div>
           <br>
           <div class="app-download">
@@ -98,14 +97,14 @@ footerTemplate.innerHTML = `
           <h2 style="margin: 1rem 0;">Popular Manufacturers</h2>
           <ul style="list-style: none;">
               <li><a href="product-categories.html">Apple</a></li>
+              <li><a href="product-categories.html">Garmin</a></li>
               <li><a href="product-categories.html">Samsung</a></li>
-              <li><a href="product-categories.html">Sony</a></li>
-              <li><a href="product-categories.html">Logitech</a></li>
-              <li><a href="product-categories.html">Bose</a></li>
-              <li><a href="product-categories.html">LG</a></li>
-              <li><a href="product-categories.html">Microsoft</a></li>
-              <li><a href="product-categories.html">Asus</a></li>
-              <li><a href="product-categories.html">Lenovo</a></li>
+              <li><a href="product-categories.html">Google</a></li>
+              <li><a href="product-categories.html">Xiomi</a></li>
+              <li><a href="product-categories.html">One Plus</a></li>
+              <li><a href="product-categories.html">TCL</a></li>
+              <li><a href="product-categories.html">Fixbit</a></li>
+              <li><a href="product-categories.html">Nokia</a></li>
               <li><a style="text-decoration: none; color: black;" href="product-categories.html">View All Brands</a></li>
           </ul>
       </div>
