@@ -15,16 +15,6 @@ navigationTemplate.innerHTML = `
               <ul class="nav-links" style="margin-top: 10px;">
                 <label for="close-btn" class="btn close-btn"><i class="fa fa-times" aria-hidden="true"></i></label>
                 <li><a href="index.html"><b>Home</b></a></li>
-                <!-- <li>
-                  <a href="item1.html" class="desktop-item">Screen Protectors</a>
-                  <input type="checkbox" id="showDrop">
-                  <label for="showDrop" class="mobile-item">Screen Protector</label>
-                  <ul class="drop-menu">
-                    <li><a href="item1.html">Tempered Glass</a></li>
-                    <li><a href="item1.html">Pet Films</a></li>
-                    <li><a href="item1.html">Privacy Filters</a></li>
-                  </ul>
-                </li> -->
                 <!-- 1 -->
                 <li>
                   <a href="item2.html" class="desktop-item">Cases</a>
@@ -33,126 +23,126 @@ navigationTemplate.innerHTML = `
                   <div class="mega-box">
                     <div class="content">
                       <div class="row">
-                        <h4>Samsung Cases</h4>
+                        <a href="device-cases.html">Samsung Cases</a>
                         
                         <ul class="mega-links">
-                          <li><a href="item2.html">Galaxy S23 FE</a></li>
-                          <li><a href="item2.html">Galaxy S23 Ultra</a></li>
-                          <li><a href="item2.html">Galaxy S23 Plus</a></li>
-                          <li><a href="item2.html">Galaxy S23</a></li>
-                          <li><a href="item2.html">Galaxy Z Flip5</a></li>
-                          <li><a href="item2.html">Galaxy Z Flip5</a></li>
-                          <li><a href="item2.html">Galaxy Tab S9 Ultra</a></li>
-                          <li><a href="item2.html">Galaxy Tab S9</a></li>
-                          <li><a href="item2.html"><b>Shop all Samsung Cases</b></a></li>
+                          <li><a href="device-cases.html">Galaxy S23 FE</a></li>
+                          <li><a href="device-cases.html">Galaxy S23 Ultra</a></li>
+                          <li><a href="device-cases.html">Galaxy S23 Plus</a></li>
+                          <li><a href="device-cases.html">Galaxy S23</a></li>
+                          <li><a href="device-cases.html">Galaxy Z Flip5</a></li>
+                          <li><a href="device-cases.html">Galaxy Z Flip5</a></li>
+                          <li><a href="device-cases.html">Galaxy Tab S9 Ultra</a></li>
+                          <li><a href="device-cases.html">Galaxy Tab S9</a></li>
+                          <li><a href="device-cases.html"><b>Shop all Samsung Cases</b></a></li>
                           <br>
                         </ul>
                         <!-- another -->
-                        <h4>Google Pixel Cases</h4>
-                        
+                        <a href="device-cases.html">Google Pixel Cases</a>
+
                         <ul class="mega-links">
-                          <li><a href="item2.html">Pixel 8</a></li>
-                          <li><a href="item2.html">Pixel 8Pro</a></li>
-                          <li><a href="item2.html">Pixel Fold</a></li>
-                          <li><a href="item2.html">Galaxy S23</a></li>
-                          <li><a href="item2.html">Pixel 7a</a></li>
-                          <li><a href="item2.html">Pixel 7Pro Cases</a></li>
-                          <li><a href="item2.html">Pixel 7</a></li>
-                          <li><a href="item2.html">Pixel 6a </a></li>
-                          <li><a href="item2.html">Pixel 6 Pro</a></li>
-                          <li><a href="item2.html"><b>Shop all Google Pixel Cases</b></a></li>
+                          <li><a href="device-cases.html">Pixel 8</a></li>
+                          <li><a href="device-cases.html">Pixel 8Pro</a></li>
+                          <li><a href="device-cases.html">Pixel Fold</a></li>
+                          <li><a href="device-cases.html">Galaxy S23</a></li>
+                          <li><a href="device-cases.html">Pixel 7a</a></li>
+                          <li><a href="device-cases.html">Pixel 7Pro Cases</a></li>
+                          <li><a href="device-cases.html">Pixel 7</a></li>
+                          <li><a href="device-cases.html">Pixel 6a </a></li>
+                          <li><a href="device-cases.html">Pixel 6 Pro</a></li>
+                          <li><a href="device-cases.html"><b>Shop all Google Pixel Cases</b></a></li>
                         </ul>
                       </div>
                       <div class="row">
-                        <h4>Samsung A Range Cases</h4>
+                      <a href="device-cases.html">Samsung A-Range Cases</a>
                         
                         <ul class="mega-links">
-                          <li><a href="item2.html">Galaxy A14</a></li>
-                          <li><a href="item2.html">Galaxy A54 5G</a></li>
-                          <li><a href="item2.html">Galaxy A34 5G</a></li>
-                          <li><a href="item2.html">Galaxy A33 5G</a></li>
-                          <li><a href="item2.html">Galaxy A53 5G</a></li>
-                          <li><a href="item2.html">Galaxy A04s</a></li>
-                          <li><a href="item2.html">Galaxy A13 5G</a></li>
-                          <li><a href="item2.html">Galaxy A52</a></li>
-                          <li><a href="item2.html"><b>all Galaxy A-Series</b></a></li>
+                          <li><a href="device-cases.html">Galaxy A14</a></li>
+                          <li><a href="device-cases.html">Galaxy A54 5G</a></li>
+                          <li><a href="device-cases.html">Galaxy A34 5G</a></li>
+                          <li><a href="device-cases.html">Galaxy A33 5G</a></li>
+                          <li><a href="device-cases.html">Galaxy A53 5G</a></li>
+                          <li><a href="device-cases.html">Galaxy A04s</a></li>
+                          <li><a href="device-cases.html">Galaxy A13 5G</a></li>
+                          <li><a href="device-cases.html">Galaxy A52</a></li>
+                          <li><a href="device-cases.html"><b>all Galaxy A-Series</b></a></li>
                           <br>
                         </ul>
                         <!-- another -->
-                        <h4>Sony Xperia Cases</h4>
-                        
+                        <a href="device-cases.html">Sony Xperia Cases</a>
+
                         <ul class="mega-links">
-                          <li><a href="item2.html">Xperia 10 V</a></li>
-                          <li><a href="item2.html">Xperia 1 V</a></li>
-                          <li><a href="item2.html">Xperia 5 V</a></li>
-                          <li><a href="item2.html">Xperia 10 IV</a></li>
-                          <li><a href="item2.html">Xperia 1 IV</a></li>
-                          <li><a href="item2.html">Xperia 5 IV</a></li>
-                          <li><a href="item2.html">Xperia 10 III</a></li>
-                          <li><a href="item2.html">Xperia 5 III</a></li>
-                          <li><a href="item2.html"><b>Shop all Sony</b></a></li>
-                        </ul>
-                      </div>
-          
-                      <div class="row">
-                        <h4>Iphone Cases</h4>
-                        
-                        <ul class="mega-links">
-                          <li><a href="item2.html">iPhone 15</a></li>
-                          <li><a href="item2.html">iPhone 15 Plus</a></li>
-                          <li><a href="item2.html">iPhone 15 Pro</a></li>
-                          <li><a href="item2.html">iPhone 15 Pro Max</a></li>
-                          <li><a href="item2.html">iPhone 14</a></li>
-                          <li><a href="item2.html">iPhone 14 Pro</a></li>
-                          <li><a href="item2.html">iPhone 14 ProMax</a></li>
-                          <li><a href="item2.html">iPhone SE 2022</a></li>
-                          <li><a href="item2.html"><b>Shop all iPhone</b></a></li>
-                          <br>
-                        </ul>
-                        <!-- another -->
-                        <h4>MacBook Cases</h4>
-                        
-                        <ul class="mega-links">
-                          <li><a href="item2.html">MacBook Air 15 inch 2023</a></li>
-                          <li><a href="item2.html">MacBook Pro 14 inch 2023</a></li>
-                          <li><a href="item2.html">MacBook Pro 16 Inch 2023</a></li>
-                          <li><a href="item2.html">MacBook Air 13 inch 2022</a></li>
-                          <li><a href="item2.html">MacBook Pro 13 inch 2022</a></li>
-                          <li><a href="item2.html">MacBook Pro 16 inch 2021</a></li>
-                          <li><a href="item2.html">MacBook Pro 14 inch 2021</a></li>
-                          <li><a href="item2.html">MacBook Air 13 inch 2020</a></li>
-                          <li><a href="item2.html"><b>Shop all MacBook Cases</b></a></li>
+                          <li><a href="device-cases.html">Xperia 10 V</a></li>
+                          <li><a href="device-cases.html">Xperia 1 V</a></li>
+                          <li><a href="device-cases.html">Xperia 5 V</a></li>
+                          <li><a href="device-cases.html">Xperia 10 IV</a></li>
+                          <li><a href="device-cases.html">Xperia 1 IV</a></li>
+                          <li><a href="device-cases.html">Xperia 5 IV</a></li>
+                          <li><a href="device-cases.html">Xperia 10 III</a></li>
+                          <li><a href="device-cases.html">Xperia 5 III</a></li>
+                          <li><a href="device-cases.html"><b>Shop all Sony</b></a></li>
                         </ul>
                       </div>
           
                       <div class="row">
-                        <h4>iPad Cases</h4>
+                      <a href="device-cases.html">iPhone Cases</a>
                         
                         <ul class="mega-links">
-                          <li><a href="item2.html">iPad 2022 - 10thGen</a></li>
-                          <li><a href="item2.html">iPad Pro 11 2022-4th</a></li>
-                          <li><a href="item2.html">iPad Pro 12.9 2022-6th</a></li>
-                          <li><a href="item2.html">iPad Air 5 2022-5th</a></li>
-                          <li><a href="item2.html">iPad Pro 12.9 2021-5th</a></li>
-                          <li><a href="item2.html">iPad Pro 11.0 2021-3rd</a></li>
-                          <li><a href="item2.html">iPad Mini 2021-6th</a></li>
-                          <li><a href="item2.html">iPad 10.2 2020-8th</a></li>
-                          <li><a href="item2.html"><b>Shop all iPad Cases</b></a></li>
+                          <li><a href="device-cases.html">iPhone 15</a></li>
+                          <li><a href="device-cases.html">iPhone 15 Plus</a></li>
+                          <li><a href="device-cases.html">iPhone 15 Pro</a></li>
+                          <li><a href="device-cases.html">iPhone 15 Pro Max</a></li>
+                          <li><a href="device-cases.html">iPhone 14</a></li>
+                          <li><a href="device-cases.html">iPhone 14 Pro</a></li>
+                          <li><a href="device-cases.html">iPhone 14 ProMax</a></li>
+                          <li><a href="device-cases.html">iPhone SE 2022</a></li>
+                          <li><a href="device-cases.html"><b>Shop all iPhone</b></a></li>
                           <br>
                         </ul>
                         <!-- another -->
-                        <h4>Cases for popular devices</h4>
+                        <a href="device-cases.html">MacBook Cases</a>
                         
                         <ul class="mega-links">
-                          <li><a href="item2.html">Kindle Paperwhite 5 Cases</a></li>
-                          <li><a href="item2.html">OnePlus 11</a></li>
-                          <li><a href="item2.html">Nothing Phone 2</a></li>
-                          <li><a href="item2.html">OnePlus Nord CE 2 5G</a></li>
-                          <li><a href="item2.html">OnePlus Nord CE 2 Lite</a></li>
-                          <li><a href="item2.html">iPhone 8</a></li>
-                          <li><a href="item2.html">Samsung Galaxy S22</a></li>
-                          <li><a href="item2.html">Samsung Galaxy S22 Plus</a></li>
-                          <li><a href="item2.html">Galaxy S21 Ultra</a></li>
+                          <li><a href="device-cases.html">MacBook Air 15 inch 2023</a></li>
+                          <li><a href="device-cases.html">MacBook Pro 14 inch 2023</a></li>
+                          <li><a href="device-cases.html">MacBook Pro 16 Inch 2023</a></li>
+                          <li><a href="device-cases.html">MacBook Air 13 inch 2022</a></li>
+                          <li><a href="device-cases.html">MacBook Pro 13 inch 2022</a></li>
+                          <li><a href="device-cases.html">MacBook Pro 16 inch 2021</a></li>
+                          <li><a href="device-cases.html">MacBook Pro 14 inch 2021</a></li>
+                          <li><a href="device-cases.html">MacBook Air 13 inch 2020</a></li>
+                          <li><a href="device-cases.html"><b>Shop all MacBook Cases</b></a></li>
+                        </ul>
+                      </div>
+          
+                      <div class="row">
+                      <a href="device-cases.html">iPad Cases</a>
+                        
+                        <ul class="mega-links">
+                          <li><a href="device-cases.html">iPad 2022 - 10thGen</a></li>
+                          <li><a href="device-cases.html">iPad Pro 11 2022-4th</a></li>
+                          <li><a href="device-cases.html">iPad Pro 12.9 2022-6th</a></li>
+                          <li><a href="device-cases.html">iPad Air 5 2022-5th</a></li>
+                          <li><a href="device-cases.html">iPad Pro 12.9 2021-5th</a></li>
+                          <li><a href="device-cases.html">iPad Pro 11.0 2021-3rd</a></li>
+                          <li><a href="device-cases.html">iPad Mini 2021-6th</a></li>
+                          <li><a href="device-cases.html">iPad 10.2 2020-8th</a></li>
+                          <li><a href="device-cases.html"><b>Shop all iPad Cases</b></a></li>
+                          <br>
+                        </ul>
+                        <!-- another -->
+                        <a href="device-cases.html">Cases for popular devices</a>
+                        
+                        <ul class="mega-links">
+                          <li><a href="device-cases.html">Kindle Paperwhite 5 Cases</a></li>
+                          <li><a href="device-cases.html">OnePlus 11</a></li>
+                          <li><a href="device-cases.html">Nothing Phone 2</a></li>
+                          <li><a href="device-cases.html">OnePlus Nord CE 2 5G</a></li>
+                          <li><a href="device-cases.html">OnePlus Nord CE 2 Lite</a></li>
+                          <li><a href="device-cases.html">iPhone 8</a></li>
+                          <li><a href="device-cases.html">Samsung Galaxy S22</a></li>
+                          <li><a href="device-cases.html">Samsung Galaxy S22 Plus</a></li>
+                          <li><a href="device-cases.html">Galaxy S21 Ultra</a></li>
                         </ul>
                       </div>
                       
@@ -167,125 +157,125 @@ navigationTemplate.innerHTML = `
                   <div class="mega-box">
                     <div class="content">
                       <div class="row">
-                        <h4>Samsung Screen Protectors</h4>
-                        
+                        <a href="device-protectors.html">Samsung Screen Protectors</a>
+
                         <ul class="mega-links">
-                          <li><a href="item1.html">Galaxy S23 FE</a></li>
-                          <li><a href="item1.html">Galaxy S23 Ultra </a></li>
-                          <li><a href="item1.html">Galaxy S23 Plus </a></li>
-                          <li><a href="item1.html">Galaxy S23 </a></li>
-                          <li><a href="item1.html">Galaxy Z Flip 5 </a></li>
-                          <li><a href="item1.html">Galaxy Z Fold 5 </a></li>
-                          <li><a href="item1.html">Galaxy Tab S9 Ultra </a></li>
-                          <li><a href="item1.html">Galaxy Tab S9 </a></li>
-                          <li><a href="item1.html"><b>Shop all Samsung </b></a></li>                                      
+                          <li><a href="device-protectors.html">Galaxy S23 FE</a></li>
+                          <li><a href="device-protectors.html">Galaxy S23 Ultra </a></li>
+                          <li><a href="device-protectors.html">Galaxy S23 Plus </a></li>
+                          <li><a href="device-protectors.html">Galaxy S23 </a></li>
+                          <li><a href="device-protectors.html">Galaxy Z Flip 5 </a></li>
+                          <li><a href="device-protectors.html">Galaxy Z Fold 5 </a></li>
+                          <li><a href="device-protectors.html">Galaxy Tab S9 Ultra </a></li>
+                          <li><a href="device-protectors.html">Galaxy Tab S9 </a></li>
+                          <li><a href="device-protectors.html"><b>Shop all Samsung </b></a></li>                                      
                           <br>
                         </ul>
                         <!-- another -->
-                        <h4>Google Pixel Protectors</h4>
+                        <a href="device-protectors.html">Google Pixel Protectors</a>
                         
                         <ul class="mega-links">
-                          <li><a href="item1.html">Pixel 8 </a></li>
-                          <li><a href="item1.html">Pixel 8 Pro </a></li>
-                          <li><a href="item1.html">Pixel Fold </a></li>
-                          <li><a href="item1.html">Pixel 7a </a></li>
-                          <li><a href="item1.html">Pixel 7 Pro </a></li>
-                          <li><a href="item1.html">Pixel 7 </a></li>
-                          <li><a href="item1.html">Pixel 6a </a></li>
-                          <li><a href="item1.html">Pixel 6 Pro </a></li>
-                          <li><a href="item1.html"><b>all Google Pixel Protectors</b></a></li>
+                          <li><a href="device-protectors.html">Pixel 8 </a></li>
+                          <li><a href="device-protectors.html">Pixel 8 Pro </a></li>
+                          <li><a href="device-protectors.html">Pixel Fold </a></li>
+                          <li><a href="device-protectors.html">Pixel 7a </a></li>
+                          <li><a href="device-protectors.html">Pixel 7 Pro </a></li>
+                          <li><a href="device-protectors.html">Pixel 7 </a></li>
+                          <li><a href="device-protectors.html">Pixel 6a </a></li>
+                          <li><a href="device-protectors.html">Pixel 6 Pro </a></li>
+                          <li><a href="device-protectors.html"><b>all Google Pixel Protectors</b></a></li>
                         </ul>
                       </div>
                       <div class="row">
-                        <h4>Samsung A Range Screen Protectors</h4>
+                      <a href="device-protectors.html">Samsung A-Range Cases</a>
                         
                         <ul class="mega-links">
-                          <li><a href="item1.html">Galaxy A14 </a></li>
-                          <li><a href="item1.html">Galaxy A54 5G </a></li>
-                          <li><a href="item1.html">Galaxy A34 5G </a></li>
-                          <li><a href="item1.html">Galaxy A73 5G </a></li>
-                          <li><a href="item1.html">Galaxy A53 5G </a></li>
-                          <li><a href="item1.html">Galaxy A04s </a></li>
-                          <li><a href="item1.html">Galaxy A33 5G </a></li>
-                          <li><a href="item1.html">Galaxy A52 </a></li>
-                          <li><a href="item1.html"><b>Shop all Samsung </b></a></li>                                      
+                          <li><a href="device-protectors.html">Galaxy A14 </a></li>
+                          <li><a href="device-protectors.html">Galaxy A54 5G </a></li>
+                          <li><a href="device-protectors.html">Galaxy A34 5G </a></li>
+                          <li><a href="device-protectors.html">Galaxy A73 5G </a></li>
+                          <li><a href="device-protectors.html">Galaxy A53 5G </a></li>
+                          <li><a href="device-protectors.html">Galaxy A04s </a></li>
+                          <li><a href="device-protectors.html">Galaxy A33 5G </a></li>
+                          <li><a href="device-protectors.html">Galaxy A52 </a></li>
+                          <li><a href="device-protectors.html"><b>Shop all Samsung </b></a></li>                                      
                           <br>
                         </ul>
                         <!-- another -->
-                        <h4>Sony Xperia Screen Protectors</h4>
+                        <a href="device-protectors.html">Sony Xperia Screen Protectors</a>
                         
                         <ul class="mega-links">
-                          <li><a href="item1.html">Xperia 10 V </a></li>
-                          <li><a href="item1.html">Xperia 1 V </a></li>
-                          <li><a href="item1.html">Xperia 5 V </a></li>
-                          <li><a href="item1.html">Xperia 10 IV </a></li>
-                          <li><a href="item1.html">Xperia 1 IV </a></li>
-                          <li><a href="item1.html">Xperia 5 IV </a></li>
-                          <li><a href="item1.html">Xperia 10 III </a></li>
-                          <li><a href="item1.html">Xperia 5 III </a></li>
-                          <li><a href="item1.html"><b>Shop all Sony Xperia Screen Protectors</b></a></li>                                      
-                        </ul>
-                      </div>
-          
-                      <div class="row">
-                        <h4>Iphone Screen Protectors</h4>
-                        
-                        <ul class="mega-links">
-                          <li><a href="item1.html">iPhone 15 </a></li>
-                          <li><a href="item1.html">iPhone 15 Plus </a></li>
-                          <li><a href="item1.html">iPhone 15 Pro </a></li>
-                          <li><a href="item1.html">iPhone 15 Pro Max </a></li>
-                          <li><a href="item1.html">iPhone 14 </a></li>
-                          <li><a href="item1.html">iPhone 14 Pro </a></li>
-                          <li><a href="item1.html">iPhone 14 Pro Max </a></li>
-                          <li><a href="item1.html">iPhone SE 2022 </a></li>
-                          <li><a href="item1.html"><b>Shop all iPhone Screen Protectors</b></a></li>                                      
-                          <br>
-                        </ul>
-                        <!-- another -->
-                        <h4>MacBook Screen Protectors</h4>
-                        
-                        <ul class="mega-links">
-                          <li><a href="item1.html">MacBook Air 15 inch 2023 </a></li>
-                          <li><a href="item1.html">MacBook Pro 14 Inch 2023 </a></li>
-                          <li><a href="item1.html">MacBook Pro 16 Inch 2023 </a></li>
-                          <li><a href="item1.html">MacBook Air 13 inch 2022 </a></li>
-                          <li><a href="item1.html">MacBook Pro 13 inch 2022 </a></li>
-                          <li><a href="item1.html">MacBook Pro 16 inch 2021 </a></li>
-                          <li><a href="item1.html">MacBook Pro 14 inch 2021 </a></li>
-                          <li><a href="item1.html">MacBook Air 13 inch 2020 </a></li>
-                          <li><a href="item1.html"><b>Shop all MacBook Screen Protectors</b></a></li>                                      
+                          <li><a href="device-protectors.html">Xperia 10 V </a></li>
+                          <li><a href="device-protectors.html">Xperia 1 V </a></li>
+                          <li><a href="device-protectors.html">Xperia 5 V </a></li>
+                          <li><a href="device-protectors.html">Xperia 10 IV </a></li>
+                          <li><a href="device-protectors.html">Xperia 1 IV </a></li>
+                          <li><a href="device-protectors.html">Xperia 5 IV </a></li>
+                          <li><a href="device-protectors.html">Xperia 10 III </a></li>
+                          <li><a href="device-protectors.html">Xperia 5 III </a></li>
+                          <li><a href="device-protectors.html"><b>Shop all Sony Xperia Screen Protectors</b></a></li>                                      
                         </ul>
                       </div>
           
                       <div class="row">
-                        <h4>iPad Screen Protectors</h4>
+                        <a href="device-protectors.html">iPhone Screen Protectors</a>
                         
                         <ul class="mega-links">
-                          <li><a href="item1.html">iPad 2022 - 10th Gen </a></li>
-                          <li><a href="item1.html">iPad Pro 11 2022 - 4th Gen </a></li>
-                          <li><a href="item1.html">iPad Pro 12.9 2022 - 6th Gen </a></li>
-                          <li><a href="item1.html">iPad Air 5 2022 - 5th Gen </a></li>
-                          <li><a href="item1.html">iPad Pro 12.9 2021 - 5th Gen </a></li>
-                          <li><a href="item1.html">iPad Pro 11.0 2021 - 3rd Gen </a></li>
-                          <li><a href="item1.html">iPad Mini 2021 - 6th Gen </a></li>
-                          <li><a href="item1.html">iPad 10.2 2020 - 8th Gen </a></li>
-                          <li><a href="item1.html"><b>Shop all iPad Screen Protectors</b></a></li>                                      
+                          <li><a href="device-protectors.html">iPhone 15 </a></li>
+                          <li><a href="device-protectors.html">iPhone 15 Plus </a></li>
+                          <li><a href="device-protectors.html">iPhone 15 Pro </a></li>
+                          <li><a href="device-protectors.html">iPhone 15 Pro Max </a></li>
+                          <li><a href="device-protectors.html">iPhone 14 </a></li>
+                          <li><a href="device-protectors.html">iPhone 14 Pro </a></li>
+                          <li><a href="device-protectors.html">iPhone 14 Pro Max </a></li>
+                          <li><a href="device-protectors.html">iPhone SE 2022 </a></li>
+                          <li><a href="device-protectors.html"><b>Shop all iPhone Screen Protectors</b></a></li>                                      
                           <br>
                         </ul>
                         <!-- another -->
-                        <h4>Screen Protectors for popular devices</h4>
+                        <a href="device-protectors.html">MacBook Screen Protectors</a>
                         
                         <ul class="mega-links">
-                          <li><a href="item1.html">Nothing Phone 2 </a></li>
-                          <li><a href="item1.html">iPhone XR </a></li>
-                          <li><a href="item1.html">iPhone 11 Pro </a></li>
-                          <li><a href="item1.html">iPhone 8 </a></li>
-                          <li><a href="item1.html">iPhone 7 </a></li>
-                          <li><a href="item1.html">Samsung Galaxy S22 </a></li>
-                          <li><a href="item1.html">Samsung Galaxy S22 Plus </a></li>
-                          <li><a href="item1.html">Xiaomi Mi 11 Ultra </a></li>
-                          <li><a href="item1.html">Nokia G20 </a></li>
+                          <li><a href="device-protectors.html">MacBook Air 15 inch 2023 </a></li>
+                          <li><a href="device-protectors.html">MacBook Pro 14 Inch 2023 </a></li>
+                          <li><a href="device-protectors.html">MacBook Pro 16 Inch 2023 </a></li>
+                          <li><a href="device-protectors.html">MacBook Air 13 inch 2022 </a></li>
+                          <li><a href="device-protectors.html">MacBook Pro 13 inch 2022 </a></li>
+                          <li><a href="device-protectors.html">MacBook Pro 16 inch 2021 </a></li>
+                          <li><a href="device-protectors.html">MacBook Pro 14 inch 2021 </a></li>
+                          <li><a href="device-protectors.html">MacBook Air 13 inch 2020 </a></li>
+                          <li><a href="device-protectors.html"><b>Shop all MacBook Screen Protectors</b></a></li>                                      
+                        </ul>
+                      </div>
+          
+                      <div class="row">
+                      <a href="device-protectors.html">iPad Screen Protectors</a>
+                        
+                        <ul class="mega-links">
+                          <li><a href="device-protectors.html">iPad 2022 - 10th Gen </a></li>
+                          <li><a href="device-protectors.html">iPad Pro 11 2022 - 4th Gen </a></li>
+                          <li><a href="device-protectors.html">iPad Pro 12.9 2022 - 6th Gen </a></li>
+                          <li><a href="device-protectors.html">iPad Air 5 2022 - 5th Gen </a></li>
+                          <li><a href="device-protectors.html">iPad Pro 12.9 2021 - 5th Gen </a></li>
+                          <li><a href="device-protectors.html">iPad Pro 11.0 2021 - 3rd Gen </a></li>
+                          <li><a href="device-protectors.html">iPad Mini 2021 - 6th Gen </a></li>
+                          <li><a href="device-protectors.html">iPad 10.2 2020 - 8th Gen </a></li>
+                          <li><a href="device-protectors.html"><b>Shop all iPad Screen Protectors</b></a></li>                                      
+                          <br>
+                        </ul>
+                        <!-- another -->
+                        <a href="device-protectors.html">Screen Protectors for popular devices</a>
+                        
+                        <ul class="mega-links">
+                          <li><a href="device-protectors.html">Nothing Phone 2 </a></li>
+                          <li><a href="device-protectors.html">iPhone XR </a></li>
+                          <li><a href="device-protectors.html">iPhone 11 Pro </a></li>
+                          <li><a href="device-protectors.html">iPhone 8 </a></li>
+                          <li><a href="device-protectors.html">iPhone 7 </a></li>
+                          <li><a href="device-protectors.html">Samsung Galaxy S22 </a></li>
+                          <li><a href="device-protectors.html">Samsung Galaxy S22 Plus </a></li>
+                          <li><a href="device-protectors.html">Xiaomi Mi 11 Ultra </a></li>
+                          <li><a href="device-protectors.html">Nokia G20 </a></li>
                         </ul>
                       </div>
                       
@@ -300,41 +290,41 @@ navigationTemplate.innerHTML = `
                   <div class="mega-box">
                     <div class="content">
                       <div class="row">
-                        <h4>Mains Chargers</h4>
+                      <a href="device-chargers.html">Mains Chargers</a>
                         
                         <ul class="mega-links">
-                          <li><a href="item3.html">USB Mains Chargers</a></li>
-                          <li><a href="item3.html">USB-C Mains Chargers</a></li>
-                          <li><a href="item3.html">Charge and Sync Cables</a></li>
-                          <li><a href="item3.html">MacBook Chargers</a></li>
-                          <li><a href="item3.html">Travel Adapters</a></li>
-                          <li><a href="item3.html">EU Mains Chargers</a></li>
-                          <li><a href="item3.html">Powerbanks</a></li>
+                          <li><a href="device-chargers.html">USB Mains Chargers</a></li>
+                          <li><a href="device-chargers.html">USB-C Mains Chargers</a></li>
+                          <li><a href="device-chargers.html">Charge and Sync Cables</a></li>
+                          <li><a href="device-chargers.html">MacBook Chargers</a></li>
+                          <li><a href="device-chargers.html">Travel Adapters</a></li>
+                          <li><a href="device-chargers.html">EU Mains Chargers</a></li>
+                          <li><a href="device-chargers.html">Powerbanks</a></li>
                         </ul>
                       </div>
 
                       <div class="row">
-                        <h4>Car Chargers</h4>
+                      <a href="device-chargers.html">Car Chargers</a>
                         
                         <ul class="mega-links">
-                          <li><a href="item3.html">Fast Car Chargers</a></li>
-                          <li><a href="item3.html">USB Car Chargers</a></li>
-                          <li><a href="item3.html">USB-C Car Chargers</a></li>
-                          <li><a href="item3.html">Wireless Car Chargers</a></li>
-                          <li><a href="item3.html">FM Transmitters</a></li>
+                          <li><a href="device-chargers.html">Fast Car Chargers</a></li>
+                          <li><a href="device-chargers.html">USB Car Chargers</a></li>
+                          <li><a href="device-chargers.html">USB-C Car Chargers</a></li>
+                          <li><a href="device-chargers.html">Wireless Car Chargers</a></li>
+                          <li><a href="device-chargers.html">FM Transmitters</a></li>
                         </ul>
                       </div>
                       
                       <div class="row">
-                        <h4>Charging Cables</h4>
+                      <a href="device-chargers.html">Charging Cables</a>
                         
                         <ul class="mega-links">
-                          <li><a href="item3.html">iPhone Cables</a></li>
-                          <li><a href="item3.html">USB-C Cables</a></li>
-                          <li><a href="item3.html">USB-C to USB-C Cables</a></li>
-                          <li><a href="item3.html">Micro USB Cables</a></li>
-                          <li><a href="item3.html">Cable Management</a></li>
-                          <li><a href="item3.html">Thunderbolt Cables</a></li>
+                          <li><a href="device-chargers.html">iPhone Cables</a></li>
+                          <li><a href="device-chargers.html">USB-C Cables</a></li>
+                          <li><a href="device-chargers.html">USB-C to USB-C Cables</a></li>
+                          <li><a href="device-chargers.html">Micro USB Cables</a></li>
+                          <li><a href="device-chargers.html">Cable Management</a></li>
+                          <li><a href="device-chargers.html">Thunderbolt Cables</a></li>
                         </ul>
                       </div>
           
