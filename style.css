@@ -847,7 +847,43 @@ padding: 0;
   cursor: pointer;
 }
 
-/* Product-cards */
+/* START: About Page */
+.about-heading-bar{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.about-our-mission{
+  text-align: center;
+}
+
+.our-missions-para{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.evaluation-and-success{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.evaluation-and-success-para p{
+  text-align: center;
+}
+
+.evaluation-and-success-info{
+  width: 40%;
+}
+.evaluation-and-success-image img{
+  width: 350px;
+  height: 200px;
+}
+/* END: About Page */
+
+/* START: Product-cards */
 .product-cards-container {
   display: flex; 
   gap: 1rem; 
@@ -862,6 +898,25 @@ padding: 0;
   .product-card a img,.product-card-details{
     width: 250px;
   }
+
+  .evaluation-and-success{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .evaluation-and-success-info{
+    width: 90%;
+  }
+  .evaluation-and-success-image img{
+    width: 500px;
+    height: 200px;
+  }
+
+  .evaluation-and-success-info h1{
+    text-align: center;
+  }
 }
 
 @media (max-width:545px){
@@ -872,4 +927,10 @@ padding: 0;
   .product-card-details{
     font-size: 10px;
   }
+
+  .evaluation-and-success-image img{
+    width: 355px;
+    height: 200px;
+  }
 }
+/* END: Product Cards */

@@ -74,7 +74,7 @@ footerTemplate.innerHTML = `
           </ul>
           <h2 style="margin: 1rem 0;">Site Information</h2>
           <ul style="list-style: none;">
-              <li><a href="#">About Us</a></li>
+              <li><a href="about.html">About Us</a></li>
               <li><a href="termsandconoditions.html">Terms and Conditions</a></li>
               <li><a href="blogs.html">Blog</a></li>
               <li><a href="#">Careers</a></li>
