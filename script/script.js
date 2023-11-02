@@ -23,3 +23,13 @@
             modal.style.display = "none";
         }
     }
+
+    // Devices Select
+    document.getElementById("devicesSelect").addEventListener("change", function() {
+        var selectedOption = this.options[this.selectedIndex];
+        var redirectURL = selectedOption.value;
+
+        if (redirectURL) {
+            window.location.href = redirectURL;
+        }
+    });

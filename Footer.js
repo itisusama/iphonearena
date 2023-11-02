@@ -95,17 +95,13 @@ footerTemplate.innerHTML = `
       
         <!-- 4 -->
         <div class="footer-block">
-          <h2 style="margin: 1rem 0;">Popular Brands</h2>
+          <h2 style="margin: 1rem 0;">Popular Manufacturers</h2>
           <ul style="list-style: none;">
               <li><a href="product-categories.html">Apple</a></li>
               <li><a href="product-categories.html">Samsung</a></li>
               <li><a href="product-categories.html">Sony</a></li>
-              <li><a href="product-categories.html">Dell</a></li>
-              <li><a href="product-categories.html">HP</a></li>
-              <li><a href="product-categories.html">Canon</a></li>
               <li><a href="product-categories.html">Logitech</a></li>
               <li><a href="product-categories.html">Bose</a></li>
-              <li><a href="product-categories.html">Nikon</a></li>
               <li><a href="product-categories.html">LG</a></li>
               <li><a href="product-categories.html">Microsoft</a></li>
               <li><a href="product-categories.html">Asus</a></li>
