@@ -881,6 +881,15 @@ padding: 0;
   width: 350px;
   height: 200px;
 }
+.company-info{
+  display: flex; 
+  justify-content: space-evenly; 
+  flex-wrap: wrap; 
+  padding: 5%;
+}
+.company-about{
+  width: 60%;
+}
 /* END: About Page */
 
 /* START: Product-cards */
@@ -916,6 +925,16 @@ padding: 0;
 
   .evaluation-and-success-info h1{
     text-align: center;
+  }
+
+  .company-info{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    padding: 5%;
+  }
+  .company-about{
+    width: 100%;
   }
 }
 
