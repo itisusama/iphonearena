@@ -77,7 +77,7 @@ footerTemplate.innerHTML = `
               <li><a href="about.html">About Us</a></li>
               <li><a href="termsandconoditions.html">Terms and Conditions</a></li>
               <li><a href="blogs.html">Blog</a></li>
-              <li><a href="#">Careers</a></li>
+              <li><a href="careers.html">Careers</a></li>
           </ul>
       </div>        
         <!-- 3 -->
