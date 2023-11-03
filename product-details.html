@@ -68,6 +68,7 @@
     <div class="container rounded mt-3 py-0 detail-buttons">
       <button style="border: none;" class="px-4 py-2" type="button" onclick="showOverview()">Overview</button>
       <button style="border: none;" class="px-4 py-2" type="button" onclick="showDelivery()">Delivery and Return</button>
+      <button style="border: none;" class="px-4 py-2" type="button" onclick="showComments()">Questions & Answers</button>
     </div>
     <div class="container bg-light shadow p-3">
       <!-- 1 -->
@@ -103,8 +104,8 @@
         <p>
           <table border="0">
             <tr>
-                <th>Part No </th>
-                <td>XYZ-93980</td>
+                <th>Part No</th>
+                <td> - XYZ-93980</td>
             </tr>
             <tr>
                 <th>UPC </th>
@@ -117,6 +118,39 @@
         </table>
         </p>
       </section>
+
+      <!-- START: Questions and Answers -->
+      <section id="comment-section">
+        <h4><b>Questions &amp; Answers</b></h4>
+        <br>
+        
+        <div class="qna-comments">
+          <p>
+            <span> 0 </span> Comments
+          </p>
+
+          <a href="login.html">Login</a>
+        </div>
+        
+        <div class="comment-form" style="width: 60%;">
+          <form action="#" method="post">
+            <input type="text" name="comment" id="comment" placeholder="Add Comment"> <br><br>
+            <button type="submit" class="btn btn-success">Add Comment</button>
+          </form>
+
+          <br><br>
+
+          <div class="comment-visible">
+            <img src="assets/category/Speakers.png" alt="icon">
+            <p style="width: 80%;">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+            </p>
+          </div>
+        </div>
+
+      </section>
+      <!-- END: Questions and Answers -->
+
       <!-- 2 -->
       <section class="delivery-and-return" id="delivery-section" class="hidden">
 
@@ -255,6 +289,7 @@
   <div id="myModal" class="modal">
     <div class="modal-content">
       <span class="close">&times;</span>
+      <br><br><br>
       <h4>Iphone Arena Feedback</h4><br>
       <p>Thank you for helping us to improve our website.</p>
       <br>
@@ -302,11 +337,19 @@
     function showOverview() {
             document.getElementById('overview-section').style.display = 'block';
             document.getElementById('delivery-section').style.display = 'none';
+            document.getElementById('comment-section').style.display = 'none';
         }
 
         function showDelivery() {
             document.getElementById('overview-section').style.display = 'none';
             document.getElementById('delivery-section').style.display = 'block';
+            document.getElementById('comment-section').style.display = 'none';
+        }
+
+        function showComments() {
+            document.getElementById('overview-section').style.display = 'none';
+            document.getElementById('delivery-section').style.display = 'none';
+            document.getElementById('comment-section').style.display = 'block';
         }
 </script>
 

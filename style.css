@@ -905,6 +905,37 @@ padding: 0;
 }
 /* END: About Page */
 
+/* START: Product Details QNA */
+.qna-comments{
+  width: 60%; 
+  display: flex; 
+  justify-content: space-between;
+}
+
+#comment{
+  padding: 10px;
+  width: 80%;
+}
+
+
+.comment-visible{
+  display: flex;
+  gap: 1rem;
+}
+
+.comment-visible p{
+  padding: 10px;
+  background-color: white;
+  color: black;
+}
+
+.comment-visible img{
+  width: 10%;
+  border-radius: 50%;
+}
+
+/* START: Product Details QNA */
+
 /* START: Product-cards */
 .product-cards-container {
   display: flex; 
@@ -948,6 +979,12 @@ padding: 0;
   }
   .company-about{
     width: 100%;
+  }
+
+  .qna-comments{
+    width: 100%; 
+    display: flex; 
+    justify-content: space-between;
   }
 }
 
