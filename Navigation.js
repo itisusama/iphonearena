@@ -406,34 +406,34 @@ navigationTemplate.innerHTML = `
                   <div class="mega-box">
                     <div class="content">
                       <div class="row">
+                      <a href="device-carphoneholders.html">Car Phone Holders</a>
 
-                        <h4>Car Phone Holders</h4>
                         <ul class="mega-links">
-                          <li><a href="item5.html">Dashboard Car Phone Holders</a></li>
-                          <li><a href="item5.html">Air Vent Car Phone Holders</a></li>
-                          <li><a href="item5.html">Wireless Charging Car Phone Holders</a></li>
-                          <li><a href="item5.html">Windscreen Car Phone Holders</a></li>
-                          <li><a href="item5.html">Magnetic Car Phone Holders</a></li>
-                          <li><a href="item5.html">MagSafe Car Phone Holders</a></li>
-                          <li><a href="item5.html">Tablet Car Phone Holders</a></li>
-                          <li><a href="item5.html">CD Slot Car Phone Holders</a></li>
-                          <li><a href="item5.html">Headrest Car Phone Holders</a></li>
-                          <li><a href="item5.html">Hands-free</a></li>
+                          <li><a href="device-carphoneholders.html">Car Phone Holders</a></li>
+                          <li><a href="device-carphoneholders.html">Air Vent Car Phone Holders</a></li>
+                          <li><a href="device-carphoneholders.html">Wireless Charging Car Phone Holders</a></li>
+                          <li><a href="device-carphoneholders.html">Windscreen Car Phone Holders</a></li>
+                          <li><a href="device-carphoneholders.html">Magnetic Car Phone Holders</a></li>
+                          <li><a href="device-carphoneholders.html">MagSafe Car Phone Holders</a></li>
+                          <li><a href="device-carphoneholders.html">Tablet Car Phone Holders</a></li>
+                          <li><a href="device-carphoneholders.html">CD Slot Car Phone Holders</a></li>
+                          <li><a href="device-carphoneholders.html">Headrest Car Phone Holders</a></li>
                         </ul>
                       </div>
          
                       <div class="row">
-                        <h4>Trending Phone Holders</h4>
+                      <a href="device-carphoneholders.html">Trending Phone Holders</a>
+
                         <ul class="mega-links">
-                          <li><a href="item5.html">⭐️ Olixar Basics TriMount Car Phone Holder</a></li>
-                          <li><a href="item5.html">Official Samsung Universal Smartphone Vehicle Dock Mount</a></li>
-                          <li><a href="item5.html">Olixar Coloured Adhesive Metal Plates for Magnetic Car Holders</a></li>
-                          <li><a href="item5.html">Olixar inVent Gravity Universal Smartphone Car Holder</a></li>
-                          <li><a href="item5.html">Olixar inVent Universal Smartphone Magnetic Air Vent Holder</a></li>
-                          <li><a href="item5.html">iOttie Auto Sense Qi-Wireless Dash & Windshield Charging Mount</a></li>
-                          <li><a href="item5.html">Baseus Osculum Gravity Universal Car Mount</a></li>
-                          <li><a href="item5.html">Baseus Smart Solar Powered Wireless Vent Car Phone Mount - Black</a></li>
-                          <li><a href="item5.html">Olixar Universal Headrest 7-10 inch Tablet Mount</a></li>
+                          <li><a href="device-carphoneholders.html">⭐️ Olixar Basics TriMount Car Phone Holder</a></li>
+                          <li><a href="device-carphoneholders.html">Official Samsung Universal Smartphone Vehicle Dock Mount</a></li>
+                          <li><a href="device-carphoneholders.html">Olixar Coloured Adhesive Metal Plates for Magnetic Car Holders</a></li>
+                          <li><a href="device-carphoneholders.html">Olixar inVent Gravity Universal Smartphone Car Holder</a></li>
+                          <li><a href="device-carphoneholders.html">Olixar inVent Universal Smartphone Magnetic Air Vent Holder</a></li>
+                          <li><a href="device-carphoneholders.html">iOttie Auto Sense Qi-Wireless Dash & Windshield Charging Mount</a></li>
+                          <li><a href="device-carphoneholders.html">Baseus Osculum Gravity Universal Car Mount</a></li>
+                          <li><a href="device-carphoneholders.html">Baseus Smart Solar Powered Wireless Vent Car Phone Mount - Black</a></li>
+                          <li><a href="device-carphoneholders.html">Olixar Universal Headrest 7-10 inch Tablet Mount</a></li>
                         </ul>
                       </div>
 
