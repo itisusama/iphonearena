@@ -34,7 +34,7 @@ navigationTemplate.innerHTML = `
                           <li><a href="device-cases.html">Galaxy Z Flip5</a></li>
                           <li><a href="device-cases.html">Galaxy Tab S9 Ultra</a></li>
                           <li><a href="device-cases.html">Galaxy Tab S9</a></li>
-                          <li><a href="device-cases.html"><b>Shop all Samsung Cases</b></a></li>
+                          <li><a href="device-cases.html"><b>Shop all</b></a></li>
                           <br>
                         </ul>
                         <!-- another -->
@@ -50,7 +50,7 @@ navigationTemplate.innerHTML = `
                           <li><a href="device-cases.html">Pixel 7</a></li>
                           <li><a href="device-cases.html">Pixel 6a </a></li>
                           <li><a href="device-cases.html">Pixel 6 Pro</a></li>
-                          <li><a href="device-cases.html"><b>Shop all Google Pixel Cases</b></a></li>
+                          <li><a href="device-cases.html"><b>Shop all</b></a></li>
                         </ul>
                       </div>
                       <div class="row">
@@ -65,7 +65,7 @@ navigationTemplate.innerHTML = `
                           <li><a href="device-cases.html">Galaxy A04s</a></li>
                           <li><a href="device-cases.html">Galaxy A13 5G</a></li>
                           <li><a href="device-cases.html">Galaxy A52</a></li>
-                          <li><a href="device-cases.html"><b>all Galaxy A-Series</b></a></li>
+                          <li><a href="device-cases.html"><b>Shop all</b></a></li>
                           <br>
                         </ul>
                         <!-- another -->
@@ -80,7 +80,7 @@ navigationTemplate.innerHTML = `
                           <li><a href="device-cases.html">Xperia 5 IV</a></li>
                           <li><a href="device-cases.html">Xperia 10 III</a></li>
                           <li><a href="device-cases.html">Xperia 5 III</a></li>
-                          <li><a href="device-cases.html"><b>Shop all Sony</b></a></li>
+                          <li><a href="device-cases.html"><b>Shop all</b></a></li>
                         </ul>
                       </div>
           
@@ -96,7 +96,7 @@ navigationTemplate.innerHTML = `
                           <li><a href="device-cases.html">iPhone 14 Pro</a></li>
                           <li><a href="device-cases.html">iPhone 14 ProMax</a></li>
                           <li><a href="device-cases.html">iPhone SE 2022</a></li>
-                          <li><a href="device-cases.html"><b>Shop all iPhone</b></a></li>
+                          <li><a href="device-cases.html"><b>Shop all</b></a></li>
                           <br>
                         </ul>
                         <!-- another -->
@@ -111,7 +111,7 @@ navigationTemplate.innerHTML = `
                           <li><a href="device-cases.html">MacBook Pro 16 inch 2021</a></li>
                           <li><a href="device-cases.html">MacBook Pro 14 inch 2021</a></li>
                           <li><a href="device-cases.html">MacBook Air 13 inch 2020</a></li>
-                          <li><a href="device-cases.html"><b>Shop all MacBook Cases</b></a></li>
+                          <li><a href="device-cases.html"><b>Shop all</b></a></li>
                         </ul>
                       </div>
           
@@ -127,7 +127,7 @@ navigationTemplate.innerHTML = `
                           <li><a href="device-cases.html">iPad Pro 11.0 2021-3rd</a></li>
                           <li><a href="device-cases.html">iPad Mini 2021-6th</a></li>
                           <li><a href="device-cases.html">iPad 10.2 2020-8th</a></li>
-                          <li><a href="device-cases.html"><b>Shop all iPad Cases</b></a></li>
+                          <li><a href="device-cases.html"><b>Shop all</b></a></li>
                           <br>
                         </ul>
                         <!-- another -->
@@ -168,7 +168,7 @@ navigationTemplate.innerHTML = `
                           <li><a href="device-protectors.html">Galaxy Z Fold 5 </a></li>
                           <li><a href="device-protectors.html">Galaxy Tab S9 Ultra </a></li>
                           <li><a href="device-protectors.html">Galaxy Tab S9 </a></li>
-                          <li><a href="device-protectors.html"><b>Shop all Samsung </b></a></li>                                      
+                          <li><a href="device-protectors.html"><b>Shop all</b></a></li>                                      
                           <br>
                         </ul>
                         <!-- another -->
@@ -183,7 +183,7 @@ navigationTemplate.innerHTML = `
                           <li><a href="device-protectors.html">Pixel 7 </a></li>
                           <li><a href="device-protectors.html">Pixel 6a </a></li>
                           <li><a href="device-protectors.html">Pixel 6 Pro </a></li>
-                          <li><a href="device-protectors.html"><b>all Google Pixel Protectors</b></a></li>
+                          <li><a href="device-protectors.html"><b>Shop all</b></a></li>
                         </ul>
                       </div>
                       <div class="row">
@@ -198,11 +198,11 @@ navigationTemplate.innerHTML = `
                           <li><a href="device-protectors.html">Galaxy A04s </a></li>
                           <li><a href="device-protectors.html">Galaxy A33 5G </a></li>
                           <li><a href="device-protectors.html">Galaxy A52 </a></li>
-                          <li><a href="device-protectors.html"><b>Shop all Samsung </b></a></li>                                      
+                          <li><a href="device-protectors.html"><b>Shop all</b></a></li>                                      
                           <br>
                         </ul>
                         <!-- another -->
-                        <a href="device-protectors.html">Sony Xperia Screen Protectors</a>
+                        <a href="device-protectors.html">Sony Xperia Protectors</a>
                         
                         <ul class="mega-links">
                           <li><a href="device-protectors.html">Xperia 10 V </a></li>
@@ -213,7 +213,7 @@ navigationTemplate.innerHTML = `
                           <li><a href="device-protectors.html">Xperia 5 IV </a></li>
                           <li><a href="device-protectors.html">Xperia 10 III </a></li>
                           <li><a href="device-protectors.html">Xperia 5 III </a></li>
-                          <li><a href="device-protectors.html"><b>Shop all Sony Xperia Screen Protectors</b></a></li>                                      
+                          <li><a href="device-protectors.html"><b>Shop all</b></a></li>                                      
                         </ul>
                       </div>
           
@@ -229,7 +229,7 @@ navigationTemplate.innerHTML = `
                           <li><a href="device-protectors.html">iPhone 14 Pro </a></li>
                           <li><a href="device-protectors.html">iPhone 14 Pro Max </a></li>
                           <li><a href="device-protectors.html">iPhone SE 2022 </a></li>
-                          <li><a href="device-protectors.html"><b>Shop all iPhone Screen Protectors</b></a></li>                                      
+                          <li><a href="device-protectors.html"><b>Shop all iPhone</b></a></li>                                      
                           <br>
                         </ul>
                         <!-- another -->
@@ -244,7 +244,7 @@ navigationTemplate.innerHTML = `
                           <li><a href="device-protectors.html">MacBook Pro 16 inch 2021 </a></li>
                           <li><a href="device-protectors.html">MacBook Pro 14 inch 2021 </a></li>
                           <li><a href="device-protectors.html">MacBook Air 13 inch 2020 </a></li>
-                          <li><a href="device-protectors.html"><b>Shop all MacBook Screen Protectors</b></a></li>                                      
+                          <li><a href="device-protectors.html"><b>Shop all</b></a></li>                                      
                         </ul>
                       </div>
           
@@ -260,11 +260,11 @@ navigationTemplate.innerHTML = `
                           <li><a href="device-protectors.html">iPad Pro 11.0 2021 - 3rd Gen </a></li>
                           <li><a href="device-protectors.html">iPad Mini 2021 - 6th Gen </a></li>
                           <li><a href="device-protectors.html">iPad 10.2 2020 - 8th Gen </a></li>
-                          <li><a href="device-protectors.html"><b>Shop all iPad Screen Protectors</b></a></li>                                      
+                          <li><a href="device-protectors.html"><b>Shop all</b></a></li>                                      
                           <br>
                         </ul>
                         <!-- another -->
-                        <a href="device-protectors.html">Screen Protectors for popular devices</a>
+                        <a href="device-protectors.html">Popular Devices Protectors</a>
                         
                         <ul class="mega-links">
                           <li><a href="device-protectors.html">Nothing Phone 2 </a></li>
@@ -339,56 +339,59 @@ navigationTemplate.innerHTML = `
                   <div class="mega-box">
                     <div class="content">
                       <div class="row">
-                        <h4>Headphones</h4>
+                        <a href="device-audios.html">Headphones</a>
+                        
                         <ul class="mega-links">
-                            <li><a href="item4.html">Wired Headphones</a></li>
-                            <li><a href="item4.html">Wireless Headphones</a></li>
-                            <li><a href="item4.html">True Wireless Earbuds</a></li>
-                            <li><a href="item4.html">Headphones for Kids</a></li>
-                            <li><a href="item4.html">Gaming Headsets</a></li>
-                            <li><a href="item4.html">Sports Headphones</a></li>
+                            <li><a href="device-audios.html">Wired Headphones</a></li>
+                            <li><a href="device-audios.html">Wireless Headphones</a></li>
+                            <li><a href="device-audios.html">True Wireless Earbuds</a></li>
+                            <li><a href="device-audios.html">Headphones for Kids</a></li>
+                            <li><a href="device-audios.html">Gaming Headsets</a></li>
+                            <li><a href="device-audios.html">Sports Headphones</a></li>
                         </ul>
                       </div>
          
                       <div class="row">
-                        <h4>Speaker</h4>
+                      <a href="device-audios.html">Speakers</a>
+
                         <ul class="mega-links">
-                          <li><a href="item4.html">Wireless</a></li>
-                          <li><a href="item4.html">Outdoor</a></li>
-                          <li><a href="item4.html">Portable</a></li>
-                          <li><a href="item4.html">Smart</a></li>
-                          <li><a href="item4.html">Novelty</a></li>
+                          <li><a href="device-audios.html">Wireless</a></li>
+                          <li><a href="device-audios.html">Outdoor</a></li>
+                          <li><a href="device-audios.html">Portable</a></li>
+                          <li><a href="device-audios.html">Smart</a></li>
+                          <li><a href="device-audios.html">Novelty</a></li>
                         </ul>
                       </div>
 
                       <div class="row">
-                        <h4>Car Audio</h4>
+                        <a href="device-audios.html">Car Audios</a>
+
                         <ul class="mega-links">
-                          <li><a href="item4.html">Handsfree Kits</a></li>
-                          <li><a href="item4.html">AUX Cable</a></li>
-                          <li><a href="item4.html">Adapters</a></li>
+                          <li><a href="device-audios.html">Handsfree Kits</a></li>
+                          <li><a href="device-audios.html">AUX Cable</a></li>
+                          <li><a href="device-audios.html">Adapters</a></li>
                         </ul>
                       </div>
 
                       <div class="row">
-                        <h4>Audio Accessories</h4>
+                      <a href="device-audios.html">Audio Accessories</a>
                         <ul class="mega-links">    
-                          <li><a href="item4.html">AirPods Accessories</a></li>
-                          <li><a href="item4.html">Microphones</a></li>
-                          <li><a href="item4.html">Audio Cables & Adapters</a></li>
-                          <li><a href="item4.html">Wireless Audio Adapters</a></li>
-                          <li><a href="item4.html">Cable Management</a></li>
+                          <li><a href="device-audios.html">AirPods Accessories</a></li>
+                          <li><a href="device-audios.html">Microphones</a></li>
+                          <li><a href="device-audios.html">Audio Cables & Adapters</a></li>
+                          <li><a href="device-audios.html">Wireless Audio Adapters</a></li>
+                          <li><a href="device-audios.html">Cable Management</a></li>
                         </ul>
                       </div>
 
                       <div class="row">
-                        <h4>AirPods Accessories</h4>
+                      <a href="device-audios.html">AirPod Accessories</a>
                         <ul class="mega-links">    
-                          <li><a href="item4.html">AirPods Pro 2nd Gen</a></li>
-                          <li><a href="item4.html">AirPods Pro 1st Gen</a></li>
-                          <li><a href="item4.html">AirPods 3rd Gen</a></li>
-                          <li><a href="item4.html">AirPods 2nd Gen</a></li>
-                          <li><a href="item4.html">AirPods 1st Gen</a></li>
+                          <li><a href="device-audios.html">AirPods Pro 2nd Gen</a></li>
+                          <li><a href="device-audios.html">AirPods Pro 1st Gen</a></li>
+                          <li><a href="device-audios.html">AirPods 3rd Gen</a></li>
+                          <li><a href="device-audios.html">AirPods 2nd Gen</a></li>
+                          <li><a href="device-audios.html">AirPods 1st Gen</a></li>
                         </ul>
                       </div>
 

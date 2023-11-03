@@ -66,13 +66,13 @@ footerTemplate.innerHTML = `
         </div>
         <!-- 2 -->
         <div class="footer-block">
-          <h2 style="margin: 1rem 0;">Customer Service</h2>
+          <h4 style="margin: 1rem 0;">Customer Service</h4>
           <ul style="list-style: none;">
               <li><a href="contact.html">Contact Us</a></li>
               <li><a href="termsandconditions.html">Return Policy</a></li>
               <li><a href="contact.html">FAQs</a></li>
           </ul>
-          <h2 style="margin: 1rem 0;">Site Information</h2>
+          <h4 style="margin: 1rem 0;">Site Information</h4>
           <ul style="list-style: none;">
               <li><a href="about.html">About Us</a></li>
               <li><a href="termsandconoditions.html">Terms and Conditions</a></li>
@@ -82,7 +82,7 @@ footerTemplate.innerHTML = `
       </div>        
         <!-- 3 -->
         <div class="footer-block">
-          <h2 style="margin: 1rem 0;">Popular Accessories</h2>
+          <h4 style="margin: 1rem 0;">Popular Accessories</h4>
           <ul style="list-style: none;">
               <li><a href="item2.html">Phone Cases</a></li>
               <li><a href="item4.html">Wireless Earbuds</a></li>
@@ -94,7 +94,7 @@ footerTemplate.innerHTML = `
       
         <!-- 4 -->
         <div class="footer-block">
-          <h2 style="margin: 1rem 0;">Popular Manufacturers</h2>
+          <h4 style="margin: 1rem 0;">Popular Manufacturers</h4>
           <ul style="list-style: none;">
               <li><a href="product-categories.html">Apple</a></li>
               <li><a href="product-categories.html">Garmin</a></li>
@@ -106,6 +106,23 @@ footerTemplate.innerHTML = `
               <li><a href="product-categories.html">Fixbit</a></li>
               <li><a href="product-categories.html">Nokia</a></li>
               <li><a style="text-decoration: none; color: black;" href="product-categories.html">View All Brands</a></li>
+          </ul>
+      </div>
+
+      <!-- 5 -->
+      <div class="footer-block">
+          <h4 style="margin: 1rem 0;">Popular Devices</h4>
+          <ul style="list-style: none;">
+              <li><a href="device-cases.html">iPhone 15 Cases</a></li>
+              <li><a href="device-cases.html">iPhone 15 Plus Cases</a></li>
+              <li><a href="device-cases.html">iPhone 15 Pro Cases</a></li>
+              <li><a href="device-cases.html">iPhone 15 Pro Max Cases</a></li>
+              <li><a href="device-cases.html">Samsung Galaxy S23 Cases</a></li>
+              <li><a href="device-cases.html">Samsung Galaxy Z Fold5 Cases</a></li>
+              <li><a href="device-cases.html">Samsung Galaxy Z Flip5 Cases</a></li>
+              <li><a href="device-cases.html">Google Pixel 7 Cases</a></li>
+              <li><a href="device-cases.html">Google Pixel 7 Pro Cases</a></li>
+              <li><a style="text-decoration: none; color: black;" href="device-cases.html">View All Brands</a></li>
           </ul>
       </div>
       

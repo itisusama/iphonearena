@@ -8,10 +8,10 @@ headerTemplate.innerHTML = `
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
     <!-- Header -->
-        <!-- Top Contacts -->
+    <!-- Top Contacts -->
     <div class="top-contacts">
       <p class="animate__animated animate__backInLeft"><i class="fa fa-envelope" aria-hidden="true"></i> iphonearena07@gmail.com</p>|
-      <p class="animate__animated animate__backInLeft animate__delay-1s"><i class="fa fa-phone" aria-hidden="true"></i> +123456789</p>
+      <p class="animate__animated animate__backInLeft animate__delay-1s"><i class="fa fa-phone" aria-hidden="true"></i> +44 7883 846758</p>
     </div>
     <!-- Top Contacts -->
         <div class="header container">
@@ -25,7 +25,7 @@ headerTemplate.innerHTML = `
 
             <div class="cart">
                 <i class="fa fa-shopping-cart" aria-hidden="true"> £0.00</i>
-                <button class="btn btn-success">Checkout</button>
+                <button class="btn btn-success"><a href="addtocart.html" style="text-decoration:none; color: white;">Checkout</a></button>
             </div>
         </div>
 

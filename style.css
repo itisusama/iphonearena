@@ -267,7 +267,7 @@ footer{
   .top-contacts{
     font-size: smaller;
   }
-
+  
   .preheader{
     display: flex;
     flex-direction: column;
@@ -312,6 +312,11 @@ footer{
   background-color: rgba(0, 0, 0, 0.7);
   z-index: 1;
   overflow: auto;
+}
+
+
+.modal-content2{
+  background-color: white;
 }
 
 .modal-content {
@@ -479,7 +484,7 @@ footer{
 }
 
 .zoom-effect:hover {
-  transform: scale(1.2);
+  transform: scale(1.09);
 }
 
 /* Why Us */
@@ -603,6 +608,7 @@ padding: 0;
 
 /* Item 2 CSS */
 .top-contacts{
+  padding-top: 5px;
   background-color: #312e2e; 
   width: 100%; 
   color: black; 
