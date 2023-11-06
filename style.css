@@ -960,6 +960,9 @@ padding: 0;
 .product-card a img,.product-card-details{
   width: 280px;
 }
+.product-card-details a{
+  color: black;
+}
 
 @media (max-width:700px){
   .product-card a img,.product-card-details{
