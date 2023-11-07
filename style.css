@@ -123,10 +123,11 @@ form.example input[type=text] {
   background-repeat: no-repeat;
 }
 .categoryselector{
-  background-color: rgba(255, 255, 255, 0.5); /* 0.5 is the alpha value for transparency */
+  background-color: rgba(255, 255, 255, 0.5);
   width: 45%;
   padding: 3%;
-  margin-top: 50px;
+  margin-top: 80px;
+  font-weight: 900;
 }
 
 .devices select{
@@ -371,6 +372,8 @@ footer{
   animation: slideRight 20s linear infinite;
 }
 
+
+
 @keyframes slideRight {
   0% {
       transform: translateX(100%);
@@ -472,6 +475,7 @@ footer{
   }
   
 .categoryselector{
+  background-color: #f3f3f3;
   width: 100%;
   padding: 6%;
   margin-top: 0;
@@ -797,6 +801,26 @@ padding: 0;
     .recent-products a{
       font-size: xx-small;
     } 
+
+    .device_selector{
+      padding: 0;
+    }
+
+    .categoryselector{
+      background-color: #f3f3f3;
+      width: 100%;
+      padding: 6%;
+      margin-top: 0;
+      font-weight: 500;
+    }
+
+    .categoryselector h4, .categoryselector h5 {
+      font-size: 17px;
+    }
+
+    .categoryselector a{
+      font-size: 17px;
+    }
 }
 
 @media (max-width: 399px){
@@ -837,6 +861,9 @@ padding: 0;
       gap: 1rem;
     }
 
+    #problem{
+      width: 95%;
+    }
 }
 
 /* Add to cart */
