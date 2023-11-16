@@ -59,15 +59,21 @@ function validateCVV(input) {
 }
 
 function validateYear(input) {
-    // Get the entered value
     let year = input.value;
 
-    // Ensure the length is not more than 3 digits
     if (year.length > 3) {
-        // If more than 3 digits, truncate the value
         year = year.slice(0, 4);
 
-        // Update the input value
+        input.value = year;
+    }
+}
+
+function validateMonth(input) {
+    let year = input.value;
+
+    if (year.length > 2) {
+        year = year.slice(0, 2);
+
         input.value = year;
     }
 }
