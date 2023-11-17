@@ -1,8 +1,10 @@
 function toggleBillingForm() {
     var billingForm = document.querySelector('.billing-form');
+    var cardPaymentForm = document.querySelector('.card-payment-form');
     
     if (billingForm.style.display === 'none' || billingForm.style.display === '') {
         billingForm.style.display = 'block';
+        cardPaymentForm.style.display = 'none';
     } else {
         billingForm.style.display = 'none';
     }
@@ -10,9 +12,11 @@ function toggleBillingForm() {
 
 function toggleCardPaymentForm() {
     var cardPaymentForm = document.querySelector('.card-payment-form');
-    
+    var billingForm = document.querySelector('.billing-form');
+
     if (cardPaymentForm.style.display === 'none' || cardPaymentForm.style.display === '') {
         cardPaymentForm.style.display = 'block';
+        billingForm.style.display = 'none';
     } else {
         cardPaymentForm.style.display = 'none';
     }
